@@ -4,4 +4,4 @@
 # origin: http://hla.alleles.org/wmda/rel_dna_ser.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/rel_dna_ser.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
-B*;07:11:01;39;;;
+B*;50:55:01;39;;;
