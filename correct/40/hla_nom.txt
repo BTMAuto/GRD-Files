@@ -4,4 +4,6 @@
 # origin: http://hla.alleles.org/wmda/hla_nom.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/hla_nom.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+A*;0718;20120731;20160731;07:18;Sequence identical
+A*;0719;20120731;20160731;07:19;Sequence identical
 A*;07:19;20120731;20160731;07:20;Sequence identical
