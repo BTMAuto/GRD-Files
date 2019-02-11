@@ -6,3 +6,4 @@
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
 A*;01:300;20120731;20160731;01:301;Sequence identical
 A*;01:301;20120731;20160731;01:302;Sequence identical
+B*;01:302:01:01;20120731;;;
