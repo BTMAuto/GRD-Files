@@ -1,0 +1,20 @@
+# file: hla_nom.txt
+# date: 2018-04-16
+# version: IPD-IMGT/HLA 3.38.1
+# origin: http://hla.alleles.org/wmda/hla_nom.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/hla_nom.txt
+# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+A*;01:300:01Q;20120731;;;
+A*;01:300:02Q;20120731;;;
+A*;01:301:03;20120731;20160731;01:301:03:01;Sequence identical
+A*;01:301:04;20120731;20160731;01:301:04:01;Sequence identical
+A*;01:301:05:01;20120731;;;
+A*;01:302:01;20120731;;;
+B*;01:301;20120731;;;
+B*;01:302:01:01;20120731;20160731;01:302:02:01;Sequence identical
+C*;01:301;20120731;;;
+DPA1*;01:400:01:01;20120731;20160731;01:400:01:02;Sequence identical
+DPA1*;01:400:01:03;20120731;20160731;01:400:01:04;Sequence identical
+DQB1*;02:300;20120731;;;
+DRB1*;01:500:01:01Q;20120731;;;
+DRB1*;01:500:01:02;20120731;;;
