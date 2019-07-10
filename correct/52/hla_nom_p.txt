@@ -5,3 +5,4 @@
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/hla_nom_p.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
 A*;01:300:01Q;01:01P
+A*;01:300:02Q;01:01P
