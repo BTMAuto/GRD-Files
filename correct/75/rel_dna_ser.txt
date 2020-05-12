@@ -1,0 +1,11 @@
+# file: rel_dna_ser.txt
+# date: 2019-10-17
+# version: IPD-IMGT/HLA 3.39.1
+# origin: http://hla.alleles.org/wmda/hla_nom.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/hla_nom.txt
+# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+A*;66:01N;26/34;;;
+A*;66:01:01N;26/34;;;
+A*;66:01:01:01N;26/34;;;
+A*;66:01:01:01;26/34;;;
+A*;68:37;;;68;
