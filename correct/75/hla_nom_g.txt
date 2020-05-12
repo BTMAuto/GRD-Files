@@ -4,4 +4,4 @@
 # origin: http://hla.alleles.org/wmda/hla_nom_g.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/hla_nom_g.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
-A*;66:01N/66:01:01N/66:01:01:01N/66:01:01:01;01:01:01:01G
+A*;64:01N/65:01:01N/66:01:01:01N/67:01:01:01;01:01:01:01G
